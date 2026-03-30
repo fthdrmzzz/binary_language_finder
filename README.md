@@ -1,5 +1,3 @@
-### Binary Language Detector — README
-
 #### Overview
 
 This tool performs uses heuristics to identify programming language of binaries. It doesn't provide a guaranteed result, but provides confidence value for user to determine. Initial intention was to have an overall idea about the distribution of binaries in our system.
