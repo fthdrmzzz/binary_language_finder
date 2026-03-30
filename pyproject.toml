@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "langclassify"
+version = "0.1.0"
+description = "Classify files and binaries by implementation language using shebang, ELF/PE metadata, symbols, and fingerprints."
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+langclassify = "langclassify.cli:main"
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+

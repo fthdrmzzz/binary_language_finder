@@ -1,0 +1,2 @@
+[console_scripts]
+langclassify = langclassify.cli:main

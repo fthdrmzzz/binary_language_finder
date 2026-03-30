@@ -1,0 +1,12 @@
+pyproject.toml
+src/langclassify/__init__.py
+src/langclassify/cli.py
+src/langclassify/detectors.py
+src/langclassify/models.py
+src/langclassify/parsers.py
+src/langclassify/tools.py
+src/langclassify.egg-info/PKG-INFO
+src/langclassify.egg-info/SOURCES.txt
+src/langclassify.egg-info/dependency_links.txt
+src/langclassify.egg-info/entry_points.txt
+src/langclassify.egg-info/top_level.txt

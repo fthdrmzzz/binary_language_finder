@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: langclassify
+Version: 0.1.0
+Summary: Classify files and binaries by implementation language using shebang, ELF/PE metadata, symbols, and fingerprints.
+Requires-Python: >=3.11
